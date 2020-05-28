@@ -7,6 +7,8 @@ https://www.runoob.com/android/android-acitivities.html
 Chinese tutoral
 https://www.jianshu.com/p/a27f3ca027e3
 
+https://www.youtube.com/watch?v=Fz_GT7VGGaQ
+
 BluetoothDevice
 https://developer.android.com/reference/android/bluetooth/BluetoothDevice
 
