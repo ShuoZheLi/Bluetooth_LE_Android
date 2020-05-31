@@ -33,3 +33,6 @@ https://github.com/adafruit/Bluefruit_LE_Connect_Android_v2
 
 Beacon project
 https://stackoverflow.com/questions/37024547/can-android-device-run-bluetooth-le-in-peripheral-and-central-modes-at-the-same
+
+example
+https://riptutorial.com/android/example/30768/using-a-gatt-server
