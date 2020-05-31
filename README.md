@@ -30,3 +30,6 @@ https://github.com/joelwass/Android-BLE-Connect-Example/blob/master/app/src/main
 
 https://github.com/adafruit/Bluefruit_LE_Connect_Android_v2
 
+
+Beacon project
+https://stackoverflow.com/questions/37024547/can-android-device-run-bluetooth-le-in-peripheral-and-central-modes-at-the-same
